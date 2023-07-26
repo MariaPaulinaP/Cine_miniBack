@@ -1,169 +1,193 @@
 {
     "teatros": [
         {
-            "id":1,
+            "id": 1,
             "nombre": "CC Molinos",
-            "sala1": {
-                "id":1,
-                "idPelicula" : "",
-                "asientos": 30,
-                "fecha": "8 de agosto",
-                "horaInicial": "2pm",
-                "horaFinal": "12pm",
-                "horaIntervalo": "2"
-            },
-            "sala2": {
-                "id":2,
-                "idPelicula" : "",
-                "asientos": 30,
-                "fecha": "8 de agosto",
-                "horaInicial": "2pm",
-                "horaFinal": "12pm",
-                "horaIntervalo": "2"
-            },
-            "sala3": {
-                "id":3,
-                "idPelicula" : "",
-                "asientos": 30,
-                "fecha": "8 de agosto",
-                "horaInicial": "2pm",
-                "horaFinal": "12pm",
-                "horaIntervalo": "2"
-                
-            },
-            "sala4": {
-                "id":4,
-                "idPelicula" : "",
-                "asientos": 30,
-                "fecha": "8 de agosto",
-                "horaInicial": "2pm",
-                "horaFinal": "12pm",
-                "horaIntervalo": "2"
-            }
+            "fechas": [
+                {
+                    "id": "1",
+                    "fecha1": "8 de agosto"
+                },
+                {
+                    "id": "2",
+                    "fecha2": "9 de agosto"
+                },
+                {
+                    "id": "3",
+                    "fecha3": "10 de agosto"
+                }
+            ],
+            "salas": [
+                {
+                    "id": "1",
+                    "sala": "1",
+                    "idPelicula": "",
+                    "asientos": 30,
+                    "horaInicial": "2pm",
+                    "horaFinal": "12pm",
+                    "horaIntervalo": "2"
+                },
+                {
+                    "id": "2",
+                    "sala": "2",
+                    "idPelicula": "",
+                    "asientos": 30,
+                    "horaInicial": "2pm",
+                    "horaFinal": "12pm",
+                    "horaIntervalo": "2"
+                },
+                {
+                    "id": "3",
+                    "sala": "3",
+                    "idPelicula": "",
+                    "asientos": 30,
+                    "horaInicial": "2pm",
+                    "horaFinal": "12pm",
+                    "horaIntervalo": "2"
+                }
+            ]
         },
         {
-            "id":2,
+            "id": 2,
             "nombre": "CC Viva envigado",
-            "sala1": {
-                "id":1,
-                "idPelicula" : "",
-                "asientos": 30,
-                "fecha": "8 de agosto",
-                "horaInicial": "2pm",
-                "horaFinal": "12pm",
-                "horaIntervalo": "2"
-            },
-            "sala2": {
-                "id":2,
-                "idPelicula" : "",
-                "asientos": 30,
-                "fecha": "8 de agosto",
-                "horaInicial": "2pm",
-                "horaFinal": "12pm",
-                "horaIntervalo": "2"
-            },
-            "sala3": {
-                "id":3,
-                "idPelicula" : "",
-                "asientos": 30,
-                "fecha": "8 de agosto",
-                "horaInicial": "2pm",
-                "horaFinal": "12pm",
-                "horaIntervalo": "2"
-                
-            },
-            "sala4": {
-                "id":4,
-                "idPelicula" : "",
-                "asientos": 30,
-                "fecha": "8 de agosto",
-                "horaInicial": "2pm",
-                "horaFinal": "12pm",
-                "horaIntervalo": "2"
-            }
+            "fechas": [
+                {
+                    "id": "1",
+                    "fecha1": "8 de agosto"
+                },
+                {
+                    "id": "2",
+                    "fecha2": "9 de agosto"
+                },
+                {
+                    "id": "3",
+                    "fecha3": "10 de agosto"
+                }
+            ],
+            "salas": [
+                {
+                    "id": "1",
+                    "sala": "1",
+                    "idPelicula": "",
+                    "asientos": 30,
+                    "horaInicial": "2pm",
+                    "horaFinal": "12pm",
+                    "horaIntervalo": "2"
+                },
+                {
+                    "id": "2",
+                    "sala": "2",
+                    "idPelicula": "",
+                    "asientos": 30,
+                    "horaInicial": "2pm",
+                    "horaFinal": "12pm",
+                    "horaIntervalo": "2"
+                },
+                {
+                    "id": "3",
+                    "sala": "3",
+                    "idPelicula": "",
+                    "asientos": 30,
+                    "horaInicial": "2pm",
+                    "horaFinal": "12pm",
+                    "horaIntervalo": "2"
+                }
+            ]
+           
         },
         {
-            "id":3,
+            "id": 3,
             "nombre": "CC Arkadia",
-            "sala1": {
-                "id":1,
-                "idPelicula" : "",
-                "asientos": 30,
-                "fecha": "8 de agosto",
-                "horaInicial": "2pm",
-                "horaFinal": "12pm",
-                "horaIntervalo": "2"
-            },
-            "sala2": {
-                "id":2,
-                "idPelicula" : "",
-                "asientos": 30,
-                "fecha": "8 de agosto",
-                "horaInicial": "2pm",
-                "horaFinal": "12pm",
-                "horaIntervalo": "2"
-            },
-            "sala3": {
-                "id":3,
-                "idPelicula" : "",
-                "asientos": 30,
-                "fecha": "8 de agosto",
-                "horaInicial": "2pm",
-                "horaFinal": "12pm",
-                "horaIntervalo": "2"
-                
-            },
-            "sala4": {
-                "id":4,
-                "idPelicula" : "",
-                "asientos": 30,
-                "fecha": "8 de agosto",
-                "horaInicial": "2pm",
-                "horaFinal": "12pm",
-                "horaIntervalo": "2"
-            }
+            "fechas": [
+                {
+                    "id": "1",
+                    "fecha1": "8 de agosto"
+                },
+                {
+                    "id": "2",
+                    "fecha2": "9 de agosto"
+                },
+                {
+                    "id": "3",
+                    "fecha3": "10 de agosto"
+                }
+            ],
+            "salas": [
+                {
+                    "id": "1",
+                    "sala": "1",
+                    "idPelicula": "",
+                    "asientos": 30,
+                    "horaInicial": "2pm",
+                    "horaFinal": "12pm",
+                    "horaIntervalo": "2"
+                },
+                {
+                    "id": "2",
+                    "sala": "2",
+                    "idPelicula": "",
+                    "asientos": 30,
+                    "horaInicial": "2pm",
+                    "horaFinal": "12pm",
+                    "horaIntervalo": "2"
+                },
+                {
+                    "id": "3",
+                    "sala": "3",
+                    "idPelicula": "",
+                    "asientos": 30,
+                    "horaInicial": "2pm",
+                    "horaFinal": "12pm",
+                    "horaIntervalo": "2"
+                }
+            ]
         },
         {
-            "id":4,
+            "id": 4,
             "nombre": "CC Oviedo",
-            "sala1": {
-                "id":1,
-                "idPelicula" : "",
-                "asientos": 30,
-                "fecha": "8 de agosto",
-                "horaInicial": "2pm",
-                "horaFinal": "12pm",
-                "horaIntervalo": "2"
-            },
-            "sala2": {
-                "id":2,
-                "idPelicula" : "",
-                "asientos": 30,
-                "fecha": "8 de agosto",
-                "horaInicial": "2pm",
-                "horaFinal": "12pm",
-                "horaIntervalo": "2"
-            },
-            "sala3": {
-                "id":3,
-                "idPelicula" : "",
-                "asientos": 30,
-                "fecha": "8 de agosto",
-                "horaInicial": "2pm",
-                "horaFinal": "12pm",
-                "horaIntervalo": "2"
-                
-            },
-            "sala4": {
-                "id":4,
-                "idPelicula" : "",
-                "asientos": 30,
-                "fecha": "8 de agosto",
-                "horaInicial": "2pm",
-                "horaFinal": "12pm",
-                "horaIntervalo": "2"
-            }
+            "fechas": [
+                {
+                    "id": "1",
+                    "fecha1": "8 de agosto"
+                },
+                {
+                    "id": "2",
+                    "fecha2": "9 de agosto"
+                },
+                {
+                    "id": "3",
+                    "fecha3": "10 de agosto"
+                }
+            ],
+            "salas": [
+                {
+                    "id": "1",
+                    "sala": "1",
+                    "idPelicula": "",
+                    "asientos": 30,
+                    "horaInicial": "2pm",
+                    "horaFinal": "12pm",
+                    "horaIntervalo": "2"
+                },
+                {
+                    "id": "2",
+                    "sala": "2",
+                    "idPelicula": "",
+                    "asientos": 30,
+                    "horaInicial": "2pm",
+                    "horaFinal": "12pm",
+                    "horaIntervalo": "2"
+                },
+                {
+                    "id": "3",
+                    "sala": "3",
+                    "idPelicula": "",
+                    "asientos": 30,
+                    "horaInicial": "2pm",
+                    "horaFinal": "12pm",
+                    "horaIntervalo": "2"
+                }
+            ]
         }
     ]
-
 }
