@@ -2,192 +2,210 @@
     "teatros": [
         {
             "id": 1,
-            "nombre": "CC Molinos",
-            "fechas": [
-                {
-                    "id": "1",
-                    "fecha1": "8 de agosto"
-                },
-                {
-                    "id": "2",
-                    "fecha2": "9 de agosto"
-                },
-                {
-                    "id": "3",
-                    "fecha3": "10 de agosto"
-                }
-            ],
+            "name": "C.C. Arkadia",
             "salas": [
                 {
-                    "id": "1",
-                    "sala": "1",
-                    "idPelicula": "",
-                    "asientos": 30,
-                    "horaInicial": "2pm",
-                    "horaFinal": "12pm",
-                    "horaIntervalo": "2"
+                    "id": 1,
+                    "numberRoom": 1,
+                    "idFuncion": 1
                 },
                 {
-                    "id": "2",
-                    "sala": "2",
-                    "idPelicula": "",
-                    "asientos": 30,
-                    "horaInicial": "2pm",
-                    "horaFinal": "12pm",
-                    "horaIntervalo": "2"
+                    "id": 2,
+                    "numberRoom": 2,
+                    "idFuncion": 2
                 },
                 {
-                    "id": "3",
-                    "sala": "3",
-                    "idPelicula": "",
-                    "asientos": 30,
-                    "horaInicial": "2pm",
-                    "horaFinal": "12pm",
-                    "horaIntervalo": "2"
+                    "id": 3,
+                    "numberRoom": 3,
+                    "idFuncion": 3
+                },
+                {
+                    "id": 4,
+                    "numberRoom": 4,
+                    "idFuncion": 4
                 }
             ]
         },
         {
             "id": 2,
-            "nombre": "CC Viva envigado",
-            "fechas": [
-                {
-                    "id": "1",
-                    "fecha1": "8 de agosto"
-                },
-                {
-                    "id": "2",
-                    "fecha2": "9 de agosto"
-                },
-                {
-                    "id": "3",
-                    "fecha3": "10 de agosto"
-                }
-            ],
+            "name": "C.C. Oviedo",
             "salas": [
                 {
-                    "id": "1",
-                    "sala": "1",
-                    "idPelicula": "",
-                    "asientos": 30,
-                    "horaInicial": "2pm",
-                    "horaFinal": "12pm",
-                    "horaIntervalo": "2"
+                    "id": 1,
+                    "numberRoom": 1,
+                    "idFuncion": 1
                 },
                 {
-                    "id": "2",
-                    "sala": "2",
-                    "idPelicula": "",
-                    "asientos": 30,
-                    "horaInicial": "2pm",
-                    "horaFinal": "12pm",
-                    "horaIntervalo": "2"
+                    "id": 2,
+                    "numberRoom": 2,
+                    "idFuncion": 2
                 },
                 {
-                    "id": "3",
-                    "sala": "3",
-                    "idPelicula": "",
-                    "asientos": 30,
-                    "horaInicial": "2pm",
-                    "horaFinal": "12pm",
-                    "horaIntervalo": "2"
+                    "id": 3,
+                    "numberRoom": 3,
+                    "idFuncion": 3
+                },
+                {
+                    "id": 4,
+                    "numberRoom": 4,
+                    "idFuncion": 4
                 }
             ]
-           
         },
         {
             "id": 3,
-            "nombre": "CC Arkadia",
-            "fechas": [
-                {
-                    "id": "1",
-                    "fecha1": "8 de agosto"
-                },
-                {
-                    "id": "2",
-                    "fecha2": "9 de agosto"
-                },
-                {
-                    "id": "3",
-                    "fecha3": "10 de agosto"
-                }
-            ],
+            "name": "C.C. Molinos",
             "salas": [
                 {
-                    "id": "1",
-                    "sala": "1",
-                    "idPelicula": "",
-                    "asientos": 30,
-                    "horaInicial": "2pm",
-                    "horaFinal": "12pm",
-                    "horaIntervalo": "2"
+                    "id": 1,
+                    "numberRoom": 1,
+                    "idFuncion": 1
                 },
                 {
-                    "id": "2",
-                    "sala": "2",
-                    "idPelicula": "",
-                    "asientos": 30,
-                    "horaInicial": "2pm",
-                    "horaFinal": "12pm",
-                    "horaIntervalo": "2"
+                    "id": 2,
+                    "numberRoom": 2,
+                    "idFuncion": 2
                 },
                 {
-                    "id": "3",
-                    "sala": "3",
-                    "idPelicula": "",
-                    "asientos": 30,
-                    "horaInicial": "2pm",
-                    "horaFinal": "12pm",
-                    "horaIntervalo": "2"
+                    "id": 3,
+                    "numberRoom": 3,
+                    "idFuncion": 3
+                },
+                {
+                    "id": 4,
+                    "numberRoom": 4,
+                    "idFuncion": 4
                 }
             ]
         },
         {
             "id": 4,
-            "nombre": "CC Oviedo",
-            "fechas": [
-                {
-                    "id": "1",
-                    "fecha1": "8 de agosto"
-                },
-                {
-                    "id": "2",
-                    "fecha2": "9 de agosto"
-                },
-                {
-                    "id": "3",
-                    "fecha3": "10 de agosto"
-                }
-            ],
+            "name": "C.C. Viva Laureles",
             "salas": [
                 {
-                    "id": "1",
-                    "sala": "1",
-                    "idPelicula": "",
-                    "asientos": 30,
-                    "horaInicial": "2pm",
-                    "horaFinal": "12pm",
-                    "horaIntervalo": "2"
+                    "id": 1,
+                    "numberRoom": 1,
+                    "idFuncion": 1
                 },
                 {
-                    "id": "2",
-                    "sala": "2",
-                    "idPelicula": "",
-                    "asientos": 30,
-                    "horaInicial": "2pm",
-                    "horaFinal": "12pm",
-                    "horaIntervalo": "2"
+                    "id": 2,
+                    "numberRoom": 2,
+                    "idFuncion": 2
                 },
                 {
-                    "id": "3",
-                    "sala": "3",
-                    "idPelicula": "",
-                    "asientos": 30,
-                    "horaInicial": "2pm",
-                    "horaFinal": "12pm",
-                    "horaIntervalo": "2"
+                    "id": 3,
+                    "numberRoom": 3,
+                    "idFuncion": 3
+                },
+                {
+                    "id": 4,
+                    "numberRoom": 4,
+                    "idFuncion": 4
                 }
             ]
         }
-    ]
+    ],
+
+
+    "funciones": [
+        {
+            "id": 1,
+            "idMovie": "",
+            "programacion": {
+                "id": 1,
+                "date": [
+                    {
+                        "id": 1,
+                        "dia": "8 de agosto"
+                    },
+                    {
+                        "id": 2,
+                        "dia": "9 de agosto"
+                    },
+                    {
+                        "id": 3,
+                        "dia": "10 de agosto"
+                    }
+                ],
+                "horaPrimeraFuncion": 11,
+                "horaUltimaFuncion": 21,
+                "intervalos": 2
+            }
+        },
+        {
+            "id": 2,
+            "idMovie": "",
+            "programacion": {
+                "id": 1,
+                "date": [
+                    {
+                        "id": 1,
+                        "dia": "8 de agosto"
+                    },
+                    {
+                        "id": 2,
+                        "dia": "9 de agosto"
+                    },
+                    {
+                        "id": 3,
+                        "dia": "10 de agosto"
+                    }
+                ],
+                "horaPrimeraFuncion": 11,
+                "horaUltimaFuncion": 21,
+                "intervalos": 2
+            }
+        },
+        {
+            "id": 3,
+            "idMovie": "",
+            "programacion": {
+                "id": 1,
+                "date": [
+                    {
+                        "id": 1,
+                        "dia": "8 de agosto"
+                    },
+                    {
+                        "id": 2,
+                        "dia": "9 de agosto"
+                    },
+                    {
+                        "id": 3,
+                        "dia": "10 de agosto"
+                    }
+                ],
+                "horaPrimeraFuncion": 11,
+                "horaUltimaFuncion": 21,
+                "intervalos": 2
+            }
+        },
+        {
+            "id": 4,
+            "idMovie": "",
+            "programacion": {
+                "id": 1,
+                "date": [
+                    {
+                        "id": 1,
+                        "dia": "8 de agosto"
+                    },
+                    {
+                        "id": 2,
+                        "dia": "9 de agosto"
+                    },
+                    {
+                        "id": 3,
+                        "dia": "10 de agosto"
+                    }
+                ],
+                "horaPrimeraFuncion": 11,
+                "horaUltimaFuncion": 21,
+                "intervalos": 2
+            }
+        }
+    ],
+
+    
+    "tiquetesComprados": []
 }
