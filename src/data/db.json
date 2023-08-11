@@ -2,7 +2,7 @@
     "teatros": [
         {
             "id": 1,
-            "name": "C.C. Arkadia",
+            "name": "Arkadia",
             "salas": [
                 {
                     "id": 1,
@@ -28,7 +28,7 @@
         },
         {
             "id": 2,
-            "name": "C.C. Oviedo",
+            "name": "Oviedo",
             "salas": [
                 {
                     "id": 1,
@@ -54,7 +54,7 @@
         },
         {
             "id": 3,
-            "name": "C.C. Molinos",
+            "name": "Molinos",
             "salas": [
                 {
                     "id": 1,
@@ -80,7 +80,7 @@
         },
         {
             "id": 4,
-            "name": "C.C. Viva Laureles",
+            "name": "Aventura",
             "salas": [
                 {
                     "id": 1,
@@ -110,7 +110,7 @@
     "funciones": [
         {
             "id": 1,
-            "idMovie": "",
+            "idPelicula":667538,
             "programacion": {
                 "id": 1,
                 "date": [
@@ -134,7 +134,7 @@
         },
         {
             "id": 2,
-            "idMovie": "",
+            "idPelicula":346698,
             "programacion": {
                 "id": 1,
                 "date": [
@@ -158,7 +158,7 @@
         },
         {
             "id": 3,
-            "idMovie": "",
+            "idPelicula": 615656,
             "programacion": {
                 "id": 1,
                 "date": [
@@ -182,7 +182,7 @@
         },
         {
             "id": 4,
-            "idMovie": "",
+            "idPelicula": 298618,
             "programacion": {
                 "id": 1,
                 "date": [
